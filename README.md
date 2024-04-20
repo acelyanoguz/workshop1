@@ -1,2 +1,2 @@
 # workshop1
- workshop1_java
+ workshop1 java dili ile örnekler yapılmıştır.
